@@ -1,0 +1,15 @@
+{
+  "use": [
+    "postcss-cssnext",
+    "cssnano",
+    "colorguard"
+  ],
+  "input": "css/**/*.css",
+  "dir": "public",
+  "map": {
+    "inline": false
+  },
+  "cssnano": {
+    "autoprefixer": false
+  }
+}

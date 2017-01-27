@@ -1,0 +1,5 @@
+{
+  "input": "html/**/*.html",
+  "output": "public",
+  "htmlnano": {}
+}
